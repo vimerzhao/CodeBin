@@ -1,2 +1,1 @@
-# SnakeGame
-different version of Snake Game
+## all kinds of classic games for pratice
