@@ -1,0 +1,36 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.pratice.game2048_android.MainActivity"
+    android:orientation="vertical"
+    android:background="#BBADA0" >
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:background="#BBADA0">
+	    <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="24sp"
+	        android:text="@string/score"/>
+	    <TextView 
+	        android:id="@+id/gameScore"
+	        android:textSize="24sp"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"/> 
+	</LinearLayout>
+    <com.pratice.game2048_android.GameView
+       android:layout_width="fill_parent"
+       android:layout_height="0dp"
+       android:layout_weight="1"
+       android:id="@+id/gameView">
+       
+   </com.pratice.game2048_android.GameView> 
+
+</LinearLayout>
