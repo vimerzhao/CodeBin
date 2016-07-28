@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    tools:context="com.pratice.puzzle.MainActivity" >
+    <!-- 游戏主界面 -->
+    <GridLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/game"
+        android:columnCount="5"
+        android:rowCount="3"></GridLayout>
+</RelativeLayout>
