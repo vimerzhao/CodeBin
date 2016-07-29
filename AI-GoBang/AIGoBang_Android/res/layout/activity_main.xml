@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+	 tools:context="zhaoyu1995.aigobang.MainActivity" >
+	<!-- 不添加ID旋转屏幕后无法恢复，想要存储必须添加ID -->
+	<zhaoyu1995.aigobang.CheckerBoard
+	    android:id="@+id/ID_board"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_centerInParent="true"
+	    />
+</RelativeLayout>
