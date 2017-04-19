@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScreenLock</string>
+    <string name="action_settings">Settings</string>
+	<string name="reset">重置密码</string>
+	<string name="save">保存密码</string>
+	<string name="set">设置密码</string>
+	<string name="test">测试密码</string>
+</resources>

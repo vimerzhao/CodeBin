@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- 之前用线性布局一直没有显示按钮 -->
+
+    <view
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        class="pratice.screenlock_v_1.GestureLock"
+        android:id="@+id/LockView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+        <Button
+            android:layout_gravity="bottom"
+            android:id="@+id/reset"
+            android:text="@string/reset"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_gravity="bottom"
+            android:id="@+id/save"
+            android:text="@string/save"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</RelativeLayout>

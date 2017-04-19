@@ -1,0 +1,10 @@
+Your input: 3.2*9-3/4+2
+Answer: 30.05
+Your input: 3.45*100-(10-4)*5
+Answer: 315
+Your input: 3*3/3/3
+Answer: 1
+Your input: 2.22*(10-110)
+Answer: -222
+Your input: 1-1
+Answer: 0
