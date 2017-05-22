@@ -24,4 +24,5 @@
 * `AndroidDemo`: 一些乱七八糟的Android练手项目
 * `SoftwareForPratice`: 一些整理过的练手项目
 * `ipv6-sniffer`: ipv6抓包程序（计网实验）
-
+* `CompilerDesign`编译原理上机报告
+* `OS-Lab`: 操作系统上机
