@@ -26,3 +26,4 @@
 * `ipv6-sniffer`: ipv6抓包程序（计网实验）
 * `CompilerDesign`编译原理上机报告
 * `OS-Lab`: 操作系统上机
+* `JustDemo`: 在Android界面中添加3D模型
