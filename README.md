@@ -27,3 +27,13 @@
 * `CompilerDesign`编译原理上机报告
 * `OS-Lab`: 操作系统上机
 * `JustDemo`: 在Android界面中添加3D模型
+* `Dutools.zip`: 当年写的教务处课表成绩等查询app
+* `image-gallery.zip`: js写的一个demo，某本书的实例
+* `MediaPlayer.zip`: 大四软件工程实践的大作业，一个音视频播放器
+* `MobileSecurity.zip`: 《手机安全卫士》，某本书的实践
+* `PL0-Compiler.zip`: 清华版《编译原理》附录的编译器前端
+* `RSSReader.zip`: RSS阅读器，未完工
+* `SimpleFrontEnd.zip`: 龙书上的前端解释器
+* `Snake_AI.zip`:  AI贪吃蛇，未做进一步优化
+* `Tetris_AI.zip`: 俄罗斯方块，没做AI，流产项目
+* `ToyProject.zip`: 两个Java练手项目，图片浏览器和计算器
