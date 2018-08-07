@@ -37,3 +37,4 @@
 * `Snake_AI.zip`:  AI贪吃蛇，未做进一步优化
 * `Tetris_AI.zip`: 俄罗斯方块，没做AI，流产项目
 * `ToyProject.zip`: 两个Java练手项目，图片浏览器和计算器
+* `Reading.tar.gz`: 记录阅读进度的APP。
